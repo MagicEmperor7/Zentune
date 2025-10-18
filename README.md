@@ -1,5 +1,5 @@
 🔧 Tech Stack
-Language: C++
+Language: C
 Build System: CMake
 Dependencies:
 libpci (for accessing PCI devices)
